@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567994739 source:c:\users\fruty\desktop\sudoku solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
